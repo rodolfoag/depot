@@ -1,2 +1,5 @@
-Use this README file to introduce your application and point to useful places in the API for learning more.
-Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+This project is the implementation of the Pragmatic Bookshelf, an online store implemented trough the reading of the book Agile Web Development with Rails (http://pragprog.com/book/rails32/agile-web-development-with-rails-3-2). Developing this project during the reading is a great way to understand how the rails ecosystem works, its conventions and how you can find your way around it.
+
+Developed by: Rodolfo Gonçalves
+github: github.com/rodolfoag
+twitter: twitter.com/rodolfogoncalv
