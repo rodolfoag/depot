@@ -2,6 +2,8 @@
 
 This project is the implementation of the Pragmatic Bookshelf, an online store implemented trough the reading of the book Agile Web Development with Rails (http://pragprog.com/book/rails32/agile-web-development-with-rails-3-2). Developing this project during the reading is a great way to understand how the rails ecosystem works, its conventions and how you can find your way around it.
 
-by Rodolfo Gonçalves
-github: github.com/rodolfoag
-twitter: twitter.com/rodolfogoncalv
+Rodolfo Gonçalves
+
+github: http://www.github.com/rodolfoag
+
+twitter: http://www.twitter.com/rodolfogoncalv
